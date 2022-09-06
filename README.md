@@ -3,7 +3,7 @@
 <!--
 **VCNoble/VCNoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <div id="badges">
-  <a href="#" img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/112306925/188283507-e618caaf-dcc3-46d6-9794-0b002aaf4081.gif" width="600" height="300"/>
