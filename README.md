@@ -18,7 +18,7 @@ Hi everyone! I am Vien and I am currently based in New Zealand.</br>
 
  🌱 I’m currently learning Advance Development and wanted to focus on Backend Development.</br>
  
- ✨ I'm very interested and excited to learn more about Python.</br>
+ ✨ I'm very interested and excited to learn more about programming languages especially Python.</br>
  
   📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vivien-carla-noble-a5a68a30/)
 </div>
